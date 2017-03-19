@@ -1,6 +1,6 @@
 /*==============================================================*/
-/* 					 											*/
-/* 		INFO 6210 Data Management and Database Design 			*/
+/* 					 			*/
+/* 		INFO 6210 Data Management and Database Design 	*/
 /* 		Group Project 											*/
 /* 		Fall 2016      											*/
 /* 		            											*/
